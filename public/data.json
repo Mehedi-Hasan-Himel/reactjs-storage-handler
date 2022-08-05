@@ -1,0 +1,27 @@
+[
+  {
+    "id": "62ed20c9efe4584faa287983",
+    "price": 29,
+    "name": "Alta"
+  },
+  {
+    "id": "62ed20c92d7af6fdff117a06",
+    "price": 28,
+    "name": "Churi"
+  },
+  {
+    "id": "62ed20c9089e68932ecf2788",
+    "price": 22,
+    "name": "Nupur"
+  },
+  {
+    "id": "62ed20c95574d7a54bc5928d",
+    "price": 20,
+    "name": "Payel"
+  },
+  {
+    "id": "62ed20c9aeed86ec05ef3e28",
+    "price": 36,
+    "name": "Watch"
+  }
+]
